@@ -1,0 +1,18 @@
+{
+    "data": {
+        "avatar_jpg_uri": "https://raw.githubusercontent.com/LetianChu/Learngithub/master/avatar.jpg",
+        "birthday_description": "00's",
+        "city": "Wuhan",
+        "fan_ticket_count": 666,
+        "nickname": "皮哥",
+        "pay_grade": {
+            "grade_banner": "火山新人",
+            "grade_icon_uri": "iconVHotsoon"
+        },
+        "signature": "哈利波特的粉丝一枚，如果你也喜欢哈利波特请关注我。",
+        "stats": {
+            "following_count": 777,
+            "follower_count": 888
+        }
+    }
+}
